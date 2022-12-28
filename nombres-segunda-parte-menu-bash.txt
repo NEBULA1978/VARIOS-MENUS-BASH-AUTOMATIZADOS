@@ -1,0 +1,94 @@
+
+0)
+./Añadir-giones-frases.sh
+read foo
+;;
+1)
+./eliminar-espacio-frase.sh
+read foo
+;;
+2)
+./Menu2-permisos-archivo-creado.sh
+read foo
+;;
+3)
+./menu-arbol-directorios-linux.sh
+read foo
+;;
+4)
+./menu-ayuda-comandos.sh
+read foo
+;;
+5)
+./menubase-crear-menu-bash.sh
+read foo
+;;
+6)
+./menubase.sh
+read foo
+;;
+7)
+./menu-completo3.sh
+read foo
+;;
+8)
+./menu.ejercicios.sh
+read foo
+;;
+9)
+./menufor.sh
+read foo
+;;
+10)
+./menu-mkdir.sh
+read foo
+;;
+11)
+./menu-redirecciones-tuberias.sh
+read foo
+;;
+12)
+./menu-scripts-vid6.sh
+read foo
+;;
+13)
+./menu-tree-directorios.sh
+read foo
+;;
+14)
+./menu-variables-entorno.sh
+read foo
+;;
+15)
+./muestra.sh
+read foo
+;;
+16)
+./prueba-nombres-menu-BUENO copy.sh
+read foo
+;;
+17)
+./prueba-nombres-menu-BUENO.sh
+read foo
+;;
+18)
+./seleccionar-palabras-Izquierda.sh
+read foo
+;;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

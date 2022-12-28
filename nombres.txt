@@ -1,0 +1,19 @@
+Añadir-giones-frases.sh
+eliminar-espacio-frase.sh
+Menu2-permisos-archivo-creado.sh
+menu-arbol-directorios-linux.sh
+menu-ayuda-comandos.sh
+menubase-crear-menu-bash.sh
+menubase.sh
+menu-completo3.sh
+menu.ejercicios.sh
+menufor.sh
+menu-mkdir.sh
+menu-redirecciones-tuberias.sh
+menu-scripts-vid6.sh
+menu-tree-directorios.sh
+menu-variables-entorno.sh
+muestra.sh
+prueba-nombres-menu-BUENO copy.sh
+prueba-nombres-menu-BUENO.sh
+seleccionar-palabras-Izquierda.sh
